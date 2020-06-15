@@ -1,3 +1,6 @@
 hola es una prueba de git
 
 seguimos con las pruebas de git
+
+
+otra prueba mas pero de errores
